@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer and ML Engineer
 ----------------------------------
 
-Unleashing the Magic of Machine Learning and Software Development Description: Hi there! I'm a passionate Machine Learning Engineer and Software Developer. Through my experience in the industry, I've come to appreciate the beauty of algorithms and the power of software development in shaping our world, I'll be sharing unique insights, intriguing discoveries, and captivating stories from the realm of machine learning, AI, and software development. Expect to find mind-blowing applications of ML algorithms, breakthroughs in AI research, and exciting innovations in software development that will spark your curiosity and feed your hunger for knowledge.
+Unleashing the Magic of Machine Learning and Software Development Description: 
+Hi there! I'm a passionate Machine Learning Engineer and Software Developer. Through my experience in the industry, I've come to appreciate the beauty of algorithms and the power of software development in shaping our world.
 
 * 🌍  I'm based in MT.ABU, Sirohi, Rajasthan
 * 🖥️  See my portfolio at [https://www.linkedin.com/in/aman-kumar-51089120b/](http://www.linkedin.com/in/aman-kumar-51089120b/)

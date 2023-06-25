@@ -61,8 +61,7 @@ src="https://img.shields.io/github/followers/amankumar003?logo=github&style=for-
 
 <a href="https://github.com/amankumar003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar003&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/amankumar003/gpt4_powered_AWS_serverless_chatbot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amankumar003&repo=gpt4_powered_AWS_serverless_chatbot&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 
 ### Support Me
 

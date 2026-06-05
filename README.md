@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman kumar
 ==================================================================================================================================
 
-Software Developer and ML Engineer
+Data Engineer 
 ----------------------------------
 
 Unleashing the Magic of Machine Learning and Software Development 
@@ -61,8 +61,3 @@ src="https://img.shields.io/github/followers/amankumar003?logo=github&style=for-
 
 <a href="https://github.com/amankumar003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar003&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/amankumareN"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
